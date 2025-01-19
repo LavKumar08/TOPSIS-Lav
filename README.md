@@ -20,5 +20,6 @@ The repository includes:
 
 ---
 ## **Installation**
+```bash
 pip install Topsis-Lav-102203621
 
